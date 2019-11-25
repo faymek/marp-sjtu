@@ -1,12 +1,15 @@
 # Marp Theme for SJTU RED Slides
 
-Version 1.0 
+> Version 1.1
+> Build 2019-11-26
 
-Build 2019-11-25
+Rendering Effect: https://faymek.github.io/marp-sjtu/theme-sjtu-red.html
 
-![](./example.png)
+About Marp: Using markdown to wtite slides
 
-About Marp:
 https://sspai.com/post/55718
 
 Under Developing..
+
+![](./example.png)
+
